@@ -2,8 +2,8 @@
 
 Hi, I'm Mohamed Seada
 
-I used to use [@mohamed-seada-1994](https://github.com/mohamed-seada-1994) as my github username which is too long.
+I used to have [@mohamed-seada-1994](https://github.com/mohamed-seada-1994) as my GitHub username which is too long.
+<br> I renamed my main account username to [@mseada94](https://github.com/mseada94).
 
-I renamed my main account username to [@mseada94](https://github.com/mseada94).
-
-And made forks for my repos here so any links or references won't break.
+I have some code samples most of them for some university labs.
+<br/> I made forks for my repos here so any links or references won't break.
